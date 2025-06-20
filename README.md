@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Fabio 👋</h1>
 
 <p align="center">
-  💻 Cloud & DevOps Explorer | 🧠 Lifelong Learner | 🧰 Infrastructure Veteran <br>
-  🇧🇷 Brazilian living in the US 🇺🇸 | 📍 Currently building my DevOps portfolio
+  💻 Networking, Cloud & DevOps Explorer | 🧠 Lifelong Learner | 🧰 Infrastructure Veteran <br>
+  🇧🇷 Brazilian living in the US 🇺🇸 | 📍 Currently building my Networking | Cloud | DevOps portfolio
 </p>
 
 ---
